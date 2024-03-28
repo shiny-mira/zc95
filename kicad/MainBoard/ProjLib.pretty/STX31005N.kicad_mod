@@ -17,9 +17,8 @@
 		)
 	)
 	(property "Value" "STX31005N"
-		(at 3.3 -8.1 0)
-		(layer "F.SilkS")
-		(hide yes)
+		(at -12 -0.3 -90)
+		(layer "F.Fab")
 		(uuid "67986ab2-3eeb-481b-9c2d-1fc89fb585f7")
 		(effects
 			(font
@@ -489,8 +488,8 @@
 		(uuid "ffea44eb-8e85-4fc9-a496-b3ea2dcd9509")
 	)
 	(fp_line
-		(start -9.7 -7.2)
-		(end 8.6 -7.2)
+		(start -9.7 -6.6)
+		(end 8.6 -6.6)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -499,8 +498,8 @@
 		(uuid "6d67568b-584b-4f5e-93b6-cafa296c417c")
 	)
 	(fp_line
-		(start -9.7 7.2)
-		(end -9.7 -7.2)
+		(start -9.7 6.5)
+		(end -9.7 -6.6)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -509,8 +508,8 @@
 		(uuid "228514ef-0705-4536-b8f8-8195dada40bd")
 	)
 	(fp_line
-		(start 8.6 -7.2)
-		(end 8.6 7.2)
+		(start 8.6 -6.6)
+		(end 8.6 6.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -519,8 +518,8 @@
 		(uuid "dab5b0bc-1e05-49e0-a69f-9216f8cc445f")
 	)
 	(fp_line
-		(start 8.6 7.2)
-		(end -9.7 7.2)
+		(start 8.6 6.5)
+		(end -9.7 6.5)
 		(stroke
 			(width 0.1)
 			(type solid)

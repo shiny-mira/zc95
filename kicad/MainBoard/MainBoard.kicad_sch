@@ -23017,7 +23017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjLib:PJ-3062-CO"
+		(property "Footprint" "ProjLib:STX31005N"
 			(at 242.57 53.34 0)
 			(effects
 				(font
@@ -24063,7 +24063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjLib:PJ-3062-CO"
+		(property "Footprint" "ProjLib:STX31005N"
 			(at 138.43 173.99 0)
 			(effects
 				(font
@@ -24139,7 +24139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjLib:PJ-3062-CO"
+		(property "Footprint" "ProjLib:STX31005N"
 			(at 156.21 173.99 0)
 			(effects
 				(font
@@ -25901,7 +25901,7 @@
 				)
 			)
 		)
-		(property "Value" "CHAN1"
+		(property "Value" "CHAN2"
 			(at 85.852 15.494 90)
 			(effects
 				(font
@@ -25909,7 +25909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjLib:PJ-3062-CO"
+		(property "Footprint" "ProjLib:STX31005N"
 			(at 86.36 21.59 0)
 			(effects
 				(font
@@ -25985,7 +25985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjLib:PJ-3062-CO"
+		(property "Footprint" "ProjLib:STX31005N"
 			(at 80.01 44.45 0)
 			(effects
 				(font
@@ -26061,7 +26061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjLib:PJ-3062-CO"
+		(property "Footprint" "ProjLib:STX31005N"
 			(at 64.77 44.45 0)
 			(effects
 				(font
@@ -26137,7 +26137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjLib:PJ-3062-CO"
+		(property "Footprint" "ProjLib:STX31005N"
 			(at 71.12 21.59 0)
 			(effects
 				(font
