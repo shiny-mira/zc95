@@ -4667,7 +4667,7 @@
 		(property "Reference" "SW1"
 			(at 9.41 -3.64 -90)
 			(layer "F.SilkS")
-			(uuid "07bb0fb3-9b6b-4cef-83ce-da86f1676b4c")
+			(uuid "b27ddb52-781f-4eee-a6ca-a24570261523")
 			(effects
 				(font
 					(size 1 1)
@@ -4679,7 +4679,7 @@
 			(at 0.6 -11.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cb4de913-6598-4148-b126-a619780b9a18")
+			(uuid "7a6f3084-13d0-4023-a2f1-dd4b72ab9ec2")
 			(effects
 				(font
 					(size 1 1)
@@ -4692,7 +4692,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c89bda24-a026-4f15-8d01-68f9f14243a2")
+			(uuid "205cb265-5590-438e-85b7-c78525e1027a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4704,7 +4704,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4fd9155b-67d9-4953-bcf4-0c54d1ac0885")
+			(uuid "95d15b6c-89cb-4e4c-8181-4d2aeb7191ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4716,7 +4716,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "352a961e-a602-4731-babe-094edf30c246")
+			(uuid "9abaf7fc-d7c2-4c93-b8a4-a5176dd2b014")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4724,8 +4724,6 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00006054a28a")
-		(sheetname "Root")
-		(sheetfile "MainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.125 -0.85)
@@ -4735,7 +4733,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "08d64325-c1b2-4d6d-97c0-3b769b66c7a1")
+			(uuid "28b9fc5e-2877-40fd-a34c-7474913af721")
 		)
 		(fp_line
 			(start 4.7 -7.7)
@@ -4745,7 +4743,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "de226b0d-7544-4b5f-ad18-0cd47f5ca7e1")
+			(uuid "158880ef-32df-46a7-802d-747bdbbda45a")
 		)
 		(fp_line
 			(start -1.4 -7.7)
@@ -4755,7 +4753,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0c2b2cbc-fa12-4487-bf6d-0da2b52c862e")
+			(uuid "2d7d3ba3-091f-45ad-b45d-b00d25e6e5cc")
 		)
 		(fp_line
 			(start -1.45 -7.7)
@@ -4765,7 +4763,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9baac758-0923-410c-a1cc-61951dc568df")
+			(uuid "b0132511-0a16-463b-b3eb-e16cb9f14a63")
 		)
 		(fp_line
 			(start -4.825 -0.85)
@@ -4775,7 +4773,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b7817d98-411f-4a40-b8da-ea4455a4e039")
+			(uuid "c2e1893b-77be-42db-906a-69bff4ca1b99")
 		)
 		(fp_line
 			(start -4.825 -0.85)
@@ -4785,7 +4783,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d648380f-41c5-4628-b689-680f5eb9ab46")
+			(uuid "a3e96e87-6d4e-4f21-868c-cf1708751520")
 		)
 		(fp_line
 			(start -4.825 -7.15)
@@ -4795,7 +4793,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "37579e90-fd19-4062-b80a-a93035087de2")
+			(uuid "c8d5dd6a-6128-4963-8786-33509f368a65")
 		)
 		(pad "" thru_hole rect
 			(at 6.35 3.95 180)
@@ -4803,7 +4801,7 @@
 			(drill oval 1.2 1.7)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "58ea2193-6d0c-47f1-9206-c1c3daa8345e")
+			(uuid "c723146e-76e3-4781-b7d4-ffb125fbc25b")
 		)
 		(pad "1" thru_hole rect
 			(at -3.05 3.95 180)
@@ -4814,7 +4812,7 @@
 			(net 12 "Net-(D1-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "5c8d08c3-ee8e-45c2-bb6d-6a9b686cdeda")
+			(uuid "5f40b000-3a5a-497a-b725-5de6ea66bc3f")
 		)
 		(pad "2" thru_hole rect
 			(at 1.65 3.95 180)
@@ -4825,7 +4823,18 @@
 			(net 13 "12v")
 			(pinfunction "B")
 			(pintype "passive")
-			(uuid "80038f5f-9593-4de4-830c-722bf81b926f")
+			(uuid "fd11db01-c33d-45d4-9d30-c6a6d1b9c249")
+		)
+		(model "${KIPRJMOD}/3d/ss-12d06l5.stp"
+			(offset
+				(xyz 1.7 6.5 3.25)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 180 0 180)
+			)
 		)
 	)
 	(footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"

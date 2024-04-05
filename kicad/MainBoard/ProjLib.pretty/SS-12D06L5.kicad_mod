@@ -1,18 +1,170 @@
-(module SS-12D06L5 (layer F.Cu) (tedit 60511489)
-  (fp_text reference REF** (at 9.5 -11.2) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value SS-12D06L5 (at 0.6 -11.35) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_line (start 8.125 -0.85) (end 8.125 -7.15) (layer F.SilkS) (width 0.15))
-  (fp_line (start -4.825 -7.15) (end 8.125 -7.15) (layer F.SilkS) (width 0.15))
-  (fp_line (start -4.825 -0.85) (end -4.825 -7.15) (layer F.SilkS) (width 0.15))
-  (fp_line (start -4.825 -0.85) (end 8.125 -0.85) (layer F.SilkS) (width 0.15))
-  (fp_line (start -1.45 -7.7) (end 4.75 -7.7) (layer F.SilkS) (width 0.15))
-  (fp_line (start 4.7 -7.7) (end 4.7 -7.2) (layer F.SilkS) (width 0.15))
-  (fp_line (start -1.4 -7.7) (end -1.4 -7.2) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole rect (at -3.05 3.95) (size 1.7 2.4) (drill oval 1.2 1.7) (layers *.Cu *.Mask))
-  (pad 2 thru_hole rect (at 1.65 3.95) (size 1.7 2.4) (drill oval 1.2 1.7) (layers *.Cu *.Mask))
-  (pad "" thru_hole rect (at 6.35 3.95) (size 1.7 2.4) (drill oval 1.2 1.7) (layers *.Cu *.Mask))
+(footprint "SS-12D06L5"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 9.5 -11.2 0)
+		(layer "F.SilkS")
+		(uuid "09d34265-e5c4-4fa3-ae8a-d92c191f203d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SS-12D06L5"
+		(at 0.6 -11.35 0)
+		(layer "F.Fab")
+		(uuid "ae299f2f-2d9d-4ddc-b5b4-afb68ce53a52")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "040ae86c-297f-4b15-b1e9-c7685bdb8fd2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa6bdb61-68c0-45fd-bb21-97fd8508b327")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d0cc235-d66c-47b4-96d3-e9c0d2cf306b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.825 -7.15)
+		(end 8.125 -7.15)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c58d184d-67ee-46b9-b469-7a1988acc5be")
+	)
+	(fp_line
+		(start -4.825 -0.85)
+		(end -4.825 -7.15)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e3448040-abb2-4a36-a23b-ae3ee25f83a6")
+	)
+	(fp_line
+		(start -4.825 -0.85)
+		(end 8.125 -0.85)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2b20f022-8c01-45e0-b6e4-3291e2d44e91")
+	)
+	(fp_line
+		(start -1.45 -7.7)
+		(end 4.75 -7.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cff77cd0-3c1a-460e-b786-3afe199c1112")
+	)
+	(fp_line
+		(start -1.4 -7.7)
+		(end -1.4 -7.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "baad2fec-74ae-4b0c-8c26-9aff0866e739")
+	)
+	(fp_line
+		(start 4.7 -7.7)
+		(end 4.7 -7.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "720c60f7-c2e2-4f2f-a55e-f53b01a564f7")
+	)
+	(fp_line
+		(start 8.125 -0.85)
+		(end 8.125 -7.15)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0899b24e-c723-4981-8552-8ae04d85f8f0")
+	)
+	(pad "" thru_hole rect
+		(at 6.35 3.95)
+		(size 1.7 2.4)
+		(drill oval 1.2 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "90586e7d-69c7-4e04-94f7-52683989b6bf")
+	)
+	(pad "1" thru_hole rect
+		(at -3.05 3.95)
+		(size 1.7 2.4)
+		(drill oval 1.2 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4a7368d2-97e1-4df0-b07f-13952bb48a6b")
+	)
+	(pad "2" thru_hole rect
+		(at 1.65 3.95)
+		(size 1.7 2.4)
+		(drill oval 1.2 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9cecfee7-8735-4b67-a3b7-83560d508b98")
+	)
+	(model "${KIPRJMOD}/3d/ss-12d06l5.stp"
+		(offset
+			(xyz 1.7 6.5 3.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 180)
+		)
+	)
 )
