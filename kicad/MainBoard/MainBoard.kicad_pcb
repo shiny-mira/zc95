@@ -42604,7 +42604,7 @@
 			)
 		)
 	)
-	(gr_text "CrashOverride85\nJun 2021\nZC95 Main Board v0.2"
+	(gr_text "CrashOverride85\nApril 2024\nZC95 Main Board v0.2-3.5mm"
 		(at 170.815 25.4 0)
 		(layer "F.SilkS")
 		(uuid "a0a43271-a5ed-46bf-8a43-f8f9ee04f39b")

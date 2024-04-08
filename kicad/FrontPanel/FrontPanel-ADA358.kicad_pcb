@@ -2613,8 +2613,8 @@
 			)
 		)
 	)
-	(gr_text "ZC95 \nFront panel\nv0.4-m"
-		(at 157 116.5 0)
+	(gr_text "ZC95 \nFront panel\nv0.4-3.5mm"
+		(at 156.82 114.75 0)
 		(layer "B.SilkS")
 		(uuid "d3d7e298-1d39-4294-a3ab-c84cc0dc5e5a")
 		(effects
