@@ -681,7 +681,7 @@
 	)
 	(model "${KIPRJMOD}/3d/STX-3100-3N.stp"
 		(offset
-			(xyz -2.5 0 5)
+			(xyz -2.5 0 4.97)
 		)
 		(scale
 			(xyz 1 1 1)
