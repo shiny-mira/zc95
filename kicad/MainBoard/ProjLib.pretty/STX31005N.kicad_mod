@@ -636,7 +636,7 @@
 		(at 5 0)
 		(size 2.4 2.4)
 		(drill 1.6)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Mask")
 		(uuid "b87bd876-e083-45c2-b34f-06e1c342b414")
 	)
 	(pad "R" thru_hole circle
